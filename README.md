@@ -6,7 +6,7 @@ Basic command line tool supposed to help to create Framy Projects and to upgrade
 
 ```
 git clone https://github.com/FramyFramework/FramyInstaller.git
-cd FramyInstall
+cd FramyInstaller
 php FramyInstall.php install
 ```
 
